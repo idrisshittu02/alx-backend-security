@@ -35,7 +35,7 @@ Real-time blocking support.
 
 Scheduled tasks (via Celery/CRON) to analyze logs.
 
-Detects anomalies (e.g., brute-force login attempts, scraping).
+Detects anomalies (e.g., brute-force login attempts,scraping).
 
 Generates alerts and applies automated restrictions.
 
